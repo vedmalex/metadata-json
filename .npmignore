@@ -1,0 +1,12 @@
+.vscode
+node_modules
+examples
+test
+src
+*.log
+*.sh
+.editorconfig
+todo.md
+yarn.lock
+tslint.json
+tsconfig.json
